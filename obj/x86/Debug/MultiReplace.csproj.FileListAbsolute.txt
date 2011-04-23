@@ -1,0 +1,10 @@
+D:\W\MultiReplace\bin\Debug\MultiReplace.exe
+D:\W\MultiReplace\bin\Debug\MultiReplace.pdb
+D:\W\MultiReplace\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\W\MultiReplace\obj\x86\Debug\MultiReplace.frmMain.resources
+D:\W\MultiReplace\obj\x86\Debug\MultiReplace.Properties.Resources.resources
+D:\W\MultiReplace\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\W\MultiReplace\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\W\MultiReplace\obj\x86\Debug\MultiReplace.exe
+D:\W\MultiReplace\obj\x86\Debug\MultiReplace.pdb
+D:\W\MultiReplace\bin\Debug\MultiReplace.exe.config
